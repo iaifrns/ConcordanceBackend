@@ -10,8 +10,6 @@ import decleration
 import documentApi
 import wordsApi
 
-documentApi.read_document()
-
 documentApi.upload_document()
 
 documentApi.get_all_documents()
